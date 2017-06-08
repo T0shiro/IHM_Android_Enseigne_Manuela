@@ -4,7 +4,6 @@
     <string name="section_format">Hello World from section: %1$d</string>
     <string name="continuer">Continuer</string>
     <string name="load_sentence">Bienvenue sur To Be Or To Have</string>
-
     <string name="hello_blank_fragment">Hello blank fragment</string>
     <string name="title_activity_maps">Map</string>
     <string name="title_activity_map_shop">Map</string>
