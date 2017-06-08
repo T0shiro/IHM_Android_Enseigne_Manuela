@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">To Be Or To Have</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="continuer">Continuer</string>
+    <string name="load_sentence">Bienvenue sur To Be Or To Have</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_map_shop">Map</string>
+    <string name="compare_button">Comparer nos magasins phares</string>
+    <string name="our_shops">Nos magasins en France</string>
+    <string name="search">Recherche : </string>
+    <string name="drawer_open">open Drawer</string>
+    <string name="drawer_close">close Drawer</string>
+    <string name="sort_by">Classer par :</string>
+    <string name="chiffre_d_affaires">Chiffre d\'affaires</string>
+    <string name="number_employees">Nombre d\'employés</string>
+    <string name="liste_des_magasins_to_be_or_to_have">Liste des magasins To Be Or To Have</string>
+    <string name="alphabet_order">Ordre alphabétique</string>
+</resources>
